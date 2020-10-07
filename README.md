@@ -25,4 +25,4 @@ cd ../newspark
 ./test.sh
 ```
 
-4. Git commit.
+4. Git commit & push.
