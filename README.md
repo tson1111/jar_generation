@@ -11,6 +11,8 @@ sudo apt install openjdk-8-jre-headless openjdk-8-jdk-headless
 2. Compile Spark.
 
 ```
+git clone https://github.com/tson1111/dataloading
+git clone https://github.com/tson1111/newspark.git
 cd dataloading
 ./build/sbt package
 cd ../newspark
