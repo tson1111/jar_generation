@@ -25,4 +25,4 @@ cd ../newspark
 ./test.sh
 ```
 
-4. Git commit & push.
+4. Git commit & push. (It would be enough to `git add workload`)
