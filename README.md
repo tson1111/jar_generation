@@ -22,7 +22,7 @@ cd ../newspark
 3. Generate jars.
 
 ```
-./test.sh
+./gen.sh
 ```
 
 4. Git commit & push. (`git add workload` would be enough.)
